@@ -20,11 +20,16 @@
 </div>
 
 ###
+
 <h2 align="left">📚 Studying:</h2>
-<div align="left>    
+
+<div align="left">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="flutter logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" alt="dart logo"/>    
 </div>
+
+###
 
 <h2 align="left">💻 Tech Stack:</h2>
 
